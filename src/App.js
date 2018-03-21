@@ -19,7 +19,7 @@ class App extends Component {
   }
 
   _callApi = () => {
-    return fetch('http://www.omdbapi.com/?apikey=2f6435d9&s=she&y>2000')
+    return fetch('https://www.omdbapi.com/?apikey=2f6435d9&s=she&y>2000')
     .then(response => response.json())
     .then(json => json.Search)
     .catch(err => console.log(err))
