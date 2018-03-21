@@ -15,4 +15,4 @@ This is very simple application so did not have much hard parts but at first I w
 
 ## Solutions
 Therefore I used something else which does not offer download ranking.
-Instead of download ranking I picked up the moivies which title include the word of 'with' and were released in 21st century.
+Instead of download ranking I picked up the moivies which title include the word of 'she' and were released in 21st century.
